@@ -78,6 +78,12 @@ This project aimed to identify and optimize areas of revenue leakage in the hosp
 
 ---
 
+## 📸 Preview
+
+[[Dashboard](https://github.com/user-attachments/assets/bf60a9c5-4d1f-4f9c-a191-a7f91079dc89)
+
+---
+
 ## 📬 Contact
 
 - 🔗 GitHub: [Jakhar05](https://github.com/Jakhar05)
